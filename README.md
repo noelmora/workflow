@@ -12,6 +12,12 @@ Este script utiliza la API pública de JSONPlaceholder para obtener datos simula
 2. **Transformación**: Procesa los datos para extraer la información relevante (`userId`, `id`, `title`, `body`).
 3. **Carga**: Inserta los datos procesados en una tabla de SQLite llamada `post`.
 
+
+## Imagenes
+
+![image](https://github.com/user-attachments/assets/12d989d2-538d-424d-b86d-2edeb0f2e602)
+
+
 ## Requisitos
 
 - Python 3.x
@@ -26,6 +32,4 @@ Puedes instalar las dependencias utilizando `pip`:
 pip install requests prefect
 
 
-## Imagenes
 
-![image](https://github.com/user-attachments/assets/12d989d2-538d-424d-b86d-2edeb0f2e602)
