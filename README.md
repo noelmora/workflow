@@ -25,6 +25,7 @@ Puedes instalar las dependencias utilizando `pip`:
 ```bash
 pip install requests prefect
 
+
 ## Imagenes
 
-![image](https://github.com/user-attachments/assets/71b71f2f-f40e-411e-81e4-13fe7d5b24aa)
+![image](https://github.com/user-attachments/assets/12d989d2-538d-424d-b86d-2edeb0f2e602)
